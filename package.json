@@ -1,0 +1,19 @@
+{
+  "name": "tmp",
+  "version": "1.0.0",
+  "description": "Мой первый проект",
+  "main": "test",
+  "scripts": {
+    "test": "\"echo\\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiexai99i/my-test-repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiexai99i/my-test-repository/issues"
+  },
+  "homepage": "https://github.com/jiexai99i/my-test-repository#readme"
+}
