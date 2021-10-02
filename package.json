@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Мой первый проект",
   "main": "test",
+  "type": "module",
   "scripts": {
     "test": "\"echo\\\"Error: no test specified\\\" && exit 1\""
   },
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jiexai99i/my-test-repository/issues"
   },
-  "homepage": "https://github.com/jiexai99i/my-test-repository#readme"
+  "homepage": "https://github.com/jiexai99i/my-test-repository#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
